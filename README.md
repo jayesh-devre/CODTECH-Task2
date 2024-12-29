@@ -1,4 +1,4 @@
-# CODTECH-Task2
+# CODTECH-Task3
 ## Containerize a web application using Docker
 
 This project demonstrates how to containerize the 2048 game using Docker with Nginx as the web server.
